@@ -1,5 +1,5 @@
 <p align = 'center'>
-  <img src = 'https://github.com/Meet2304/Computer-Vision/blob/main/Computer%20Vision-Header.png'>
+  <img src = 'https://github.com/Meet2304/Machine-Learning/blob/main/Machine-Learning-Header-1.png'>
 </p>
 
 <h1 align="center">Machine Learning</h1>
